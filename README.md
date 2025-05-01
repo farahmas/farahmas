@@ -17,6 +17,15 @@ Worked as a software engineering intern at **Nets**, a tech company in Dushanbe,
 
 ---
 
+### 🌍 TechGirls 2021 – International Summer Program Participant  
+Participated in the **TechGirls 2021 Summer Program**, an international initiative focused on empowering young women in STEM.  
+- Completed over **100 hours of training** in STEM courses at **Virginia Tech**.  
+- Engaged in **cross-cultural communication and community leadership** activities.  
+- Collaborated with participants from **12 countries** to develop global tech awareness.  
+🌐 Program organized by the U.S. Department of State and Virginia Tech.
+
+---
+
 ### 📱 EduSTEM – STEM Education Mobile App  
 **Technovation Girls 2022 – Team Leader, Chief Programmer and Designer**  
 Created a mobile application named **EduSTEM** to support science and technology education among students.  
