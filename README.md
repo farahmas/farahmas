@@ -9,6 +9,16 @@
 
 ## 🌟 Featured Projects
 
+---
+
+### 🌐 Backend Development – Nets.tj  
+**Software Engineering Intern – July 2024 to September 2024**  
+Worked as a software engineering intern at **Nets**, a tech company in Dushanbe, Tajikistan.  
+- Learned how to use the **Django** web framework.  
+- Contributed to backend development of the official [nets.tj](https://nets.tj) website.  
+
+---
+
 ### 📱 EduSTEM – STEM Education Mobile App  
 **Technovation Girls 2022 – Team Leader, Chief Programmer and Designer**  
 Created a mobile application named **EduSTEM** to support science and technology education among students.  
@@ -28,14 +38,6 @@ Created a mobile application called **Somnera**, aimed at helping users fight in
 - Recorded a demo and pitch video, and wrote a business plan.  
 - Received positive feedback from judges.  
 🔒 Project materials archived and not publicly available.
-
----
-
-### 🌐 Backend Development – Nets.tj  
-**Software Engineering Intern – July 2024 to September 2024**  
-Worked as a software engineering intern at **Nets**, a tech company in Dushanbe, Tajikistan.  
-- Learned how to use the **Django** web framework.  
-- Contributed to backend development of the official [nets.tj](https://nets.tj) website.  
 
 ---
 
