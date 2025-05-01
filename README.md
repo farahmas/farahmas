@@ -9,8 +9,6 @@
 
 ## 🌟 Featured Projects
 
----
-
 ### 🌐 Backend Development – Nets.tj  
 **Software Engineering Intern – July 2024 to September 2024**  
 Worked as a software engineering intern at **Nets**, a tech company in Dushanbe, Tajikistan.  
