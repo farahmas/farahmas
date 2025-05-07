@@ -67,7 +67,7 @@ Attended a **Web Developing Course** organized by Littbird Group.
 ## 🧠 Academic Projects & Activities
 
 ### 🧾 Final-Year Project – İzmit Route Planning System  
-**JavaFX-based Intelligent Transportation App – 2025  
+**Programlama Laboratuvarı II – Project II (2025)**   
 Developing a public transportation planning system using JavaFX, JSON data structures, and custom graph algorithms.  
 - Calculates shortest, fastest, and least-transfer routes using real data  
 - Integrates **Google Maps** and **graph visualization** tools  
@@ -77,11 +77,42 @@ Developing a public transportation planning system using JavaFX, JSON data struc
 ---
 
 ### 🧪 Electronics & Embedded Systems – Arduino Projects  
-**Academic Projects – 2025**  
+**Programlama Laboratuvarı II – Project I (2025)**  
 Built multiple hardware projects using **Arduino Mega**, **Proteus**, and various sensors (LM35, LDR, RGB LED).  
 - Created a **Smart Vehicle Safety and Control System**  
 - Implemented safety checks for seat belts, temperature monitoring, and motor control  
 - Simulated real-time logic and user interface with **LCD display** and **buzzer/LED** outputs  
+
+---
+
+### 🧠 Author Collaboration Graph – Python & PyQt5  
+**Programlama Laboratuvarı I – Project III (2024)**  
+Built an academic author collaboration network from `.xlsx` data using manual graph structures and interactive visualization.  
+- Nodes represented authors; edges represented co-authorships; weights indicated number of shared papers.  
+- Implemented shortest path, author ranking, BST conversion, and longest path calculations.  
+- Designed a user interface with **PyQt5**, including interactive graph, zoom, and clickable nodes.  
+- Focused on graph theory, recursion, and tree structures in Python.
+
+---
+
+### 🎮 Tank Battle Card Game – Java OOP Project  
+**Programlama Laboratuvarı I – Project II (2024)**  
+Developed a turn-based battle card game using Java and Object-Oriented Programming principles.  
+- Implemented different types of military units: air, sea, and land vehicles.  
+- Each card had unique properties: damage, type, and level.  
+- The game logic included type advantages and damage comparisons.  
+- Applied inheritance, encapsulation, and polymorphism.  
+- Built a GUI using **JavaFX** for interactive gameplay.
+
+---
+
+### 🗃️ File System Simulation – Java CLI Project  
+**Programlama Laboratuvarı I – Project I (2024)**  
+Created a command-line file and folder management system modeled as a tree structure.  
+- Supported commands: `mkdir`, `touch`, `cd`, `ls`, `mv`, `rm`, and more.  
+- Built a `Node`-based recursive tree to simulate hierarchical directories.  
+- Enabled dynamic navigation and manipulation of the file system via terminal commands.  
+- Emphasized data structures, trees, and command parsing logic in Java.
 
 ---
 
