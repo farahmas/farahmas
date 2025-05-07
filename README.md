@@ -60,7 +60,28 @@ Joined **AI Academy** by TajRupt.AI and completed training on machine learning.
 **Participant – July 2019 to August 2019**  
 Attended a **Web Developing Course** organized by Littbird Group.  
 - Learned basics of **HTML**, **CSS**, and **JavaScript**.  
-- Practiced building websites with front-end technologies.  
+- Practiced building websites with front-end technologies.
+
+---
+
+## 🧠 Academic Projects & Activities
+
+### 🧾 Final-Year Project – İzmit Route Planning System  
+**JavaFX-based Intelligent Transportation App – 2025 (Ongoing)**  
+Developing a public transportation planning system using JavaFX, JSON data structures, and custom graph algorithms.  
+- Calculates shortest, fastest, and least-transfer routes using real data  
+- Integrates **Google Maps** and **graph visualization** tools  
+- Applies **SOLID principles** and design patterns (Factory, Strategy)  
+- Designed for the **PROLAB II** course at Kocaeli University  
+
+---
+
+### 🧪 Electronics & Embedded Systems – Arduino Projects  
+**Academic Projects – 2024 to 2025**  
+Built multiple hardware projects using **Arduino Mega**, **Proteus**, and various sensors (LM35, LDR, RGB LED).  
+- Created a **Smart Vehicle Safety and Control System**  
+- Implemented safety checks for seat belts, temperature monitoring, and motor control  
+- Simulated real-time logic and user interface with **LCD display** and **buzzer/LED** outputs  
 
 ---
 
