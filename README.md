@@ -152,7 +152,7 @@ Designed and developed a two-player tank battle card game using Java and Object-
 ---
 
 ### ⚔️ Battle Simulation Game – C Programming & JSON Parsing  
-**Programlama Laboratuvarı I – Project I (2023)**  
+**Programlama Laboratuvarı I – Project I (2024)**  
 Created a turn-based fantasy battle simulator in **C**, featuring data-driven combat between two factions using **JSON files**, **custom logic**, and **graphical visualization**.  
 
 - Two factions: **Human Empire** vs. **Orc Legion**, each with units, heroes, monsters, and research upgrades.  
