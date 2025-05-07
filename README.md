@@ -67,7 +67,7 @@ Attended a **Web Developing Course** organized by Littbird Group.
 ## 🧠 Academic Projects & Activities
 
 ### 🧾 Final-Year Project – İzmit Route Planning System  
-**JavaFX-based Intelligent Transportation App – 2025 (Ongoing)**  
+**JavaFX-based Intelligent Transportation App – 2025  
 Developing a public transportation planning system using JavaFX, JSON data structures, and custom graph algorithms.  
 - Calculates shortest, fastest, and least-transfer routes using real data  
 - Integrates **Google Maps** and **graph visualization** tools  
@@ -77,7 +77,7 @@ Developing a public transportation planning system using JavaFX, JSON data struc
 ---
 
 ### 🧪 Electronics & Embedded Systems – Arduino Projects  
-**Academic Projects – 2024 to 2025**  
+**Academic Projects – 2025**  
 Built multiple hardware projects using **Arduino Mega**, **Proteus**, and various sensors (LM35, LDR, RGB LED).  
 - Created a **Smart Vehicle Safety and Control System**  
 - Implemented safety checks for seat belts, temperature monitoring, and motor control  
