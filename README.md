@@ -66,55 +66,116 @@ Attended a **Web Developing Course** organized by Littbird Group.
 
 ## 🧠 Academic Projects & Activities
 
-### 🧾 Final-Year Project – İzmit Route Planning System  
-**Programlama Laboratuvarı II – Project II (2025)**   
-Developing a public transportation planning system using JavaFX, JSON data structures, and custom graph algorithms.  
-- Calculates shortest, fastest, and least-transfer routes using real data  
-- Integrates **Google Maps** and **graph visualization** tools  
-- Applies **SOLID principles** and design patterns (Factory, Strategy)  
-- Designed for the **PROLAB II** course at Kocaeli University  
+---
+
+### 🧾 İzmit Route Planning System  
+**Programlama Laboratuvarı II – Project II (2025)**  
+Designed and implemented a **smart public transportation planner** using **JavaFX**, JSON-based real-world data, and custom-built graph algorithms.  
+- Allowed users to input **starting point, destination, passenger type, payment method, and transport preferences**.  
+- Computed optimal routes based on three filters:  
+  - **Shortest Distance**  
+  - **Fastest Duration**  
+  - **Minimum Transfer**  
+- Utilized **custom graph traversal algorithms** (modified BFS/Dijkstra) to account for:  
+  - Different vehicle types (bus, tram, taxi)  
+  - Transfer penalties and costs  
+  - Real-world distance and fare calculations from JSON files  
+- Integrated two types of visual feedback:  
+  - **Google Maps API** via WebView for real location mapping  
+  - **JGraphX** for route visualization as a transport graph  
+- Applied **SOLID principles** and implemented **Factory**, **Strategy**, and **Template Method** design patterns  
+- Supported user discounts based on passenger type (student, teacher, senior)  
+- Output included: route steps, vehicle icons, cost/time breakdown, and special conditions  
+- Fully modular and extensible architecture suitable for future city expansions  
 
 ---
 
 ### 🧪 Electronics & Embedded Systems – Arduino Projects  
 **Programlama Laboratuvarı II – Project I (2025)**  
-Built multiple hardware projects using **Arduino Mega**, **Proteus**, and various sensors (LM35, LDR, RGB LED).  
-- Created a **Smart Vehicle Safety and Control System**  
-- Implemented safety checks for seat belts, temperature monitoring, and motor control  
-- Simulated real-time logic and user interface with **LCD display** and **buzzer/LED** outputs  
+Designed and built an **IoT-based Smart Vehicle Safety and Control System** using **Arduino Mega**, simulated in **Proteus**.  
+- Inputs:  
+  - **Seatbelt button** – prevents engine start unless buckled  
+  - **Door switch** – detects if door is open or closed  
+  - **LDR (Light Sensor)** – detects ambient light for auto headlight control  
+  - **LM35 (Temperature Sensor)** – monitors in-vehicle temperature  
+  - **Potentiometer** – simulates fuel level readings  
+- Outputs:  
+  - **RGB LED** – indicates door status (e.g., pink when open)  
+  - **Buzzer** – alerts for unsafe conditions  
+  - **DC Motor** – represents engine, activated only under safe conditions  
+  - **16x2 LCD Display** – real-time status messages  
+  - **Standard LEDs** – visual indicators for fuel and lights  
+- Implemented logic flow with `if-else` control structures and flags for motor status  
+- Displayed dynamic data (temperature, fuel level, status) using the LCD  
+- All modules simulated in **Proteus**, ensuring correct logic, wiring, and timing  
+- Emphasized **real-world embedded systems principles**, including safety checks, modular code, and simulation accuracy  
 
 ---
 
-### 🧠 Author Collaboration Graph – Python & PyQt5  
-**Programlama Laboratuvarı I – Project III (2024)**  
-Built an academic author collaboration network from `.xlsx` data using manual graph structures and interactive visualization.  
-- Nodes represented authors; edges represented co-authorships; weights indicated number of shared papers.  
-- Implemented shortest path, author ranking, BST conversion, and longest path calculations.  
-- Designed a user interface with **PyQt5**, including interactive graph, zoom, and clickable nodes.  
-- Focused on graph theory, recursion, and tree structures in Python.
+### 🧠 Academic Author Collaboration Graph – Python & PyQt5  
+**Programlama Laboratuvarı I – Project I (2024)**  
+Developed an interactive graph-based desktop application that visualizes academic co-authorship data using `.xlsx` datasets.  
+- Parsed Excel data to extract author names, ORCID IDs, paper titles, and co-author relationships using **Pandas**.  
+- Manually constructed a **weighted undirected graph**, where:  
+  - **Nodes** represent authors  
+  - **Edges** represent co-authorships  
+  - **Edge weights** indicate the number of joint papers  
+- Implemented a custom `Graph` class with features like:  
+  - `find_all_paths` and `find_shortest_path` between authors  
+  - **Binary Search Tree (BST)** generation from shortest paths  
+  - Functions to compute most collaborative author, total collaborations, and longest path  
+- Designed a rich GUI using **PyQt5**:  
+  - Clickable graph nodes that display author and paper info  
+  - Zoom-in/out functionality via mouse wheel  
+  - Interactive sidebar with 7 different analytical tools  
+  - Visual feedback on selected paths and results  
+- Applied core computer science concepts: **graph theory**, **recursion**, **tree structures**, and **data parsing**.
 
 ---
+
 
 ### 🎮 Tank Battle Card Game – Java OOP Project  
 **Programlama Laboratuvarı I – Project II (2024)**  
-Developed a turn-based battle card game using Java and Object-Oriented Programming principles.  
-- Implemented different types of military units: air, sea, and land vehicles.  
-- Each card had unique properties: damage, type, and level.  
-- The game logic included type advantages and damage comparisons.  
-- Applied inheritance, encapsulation, and polymorphism.  
-- Built a GUI using **JavaFX** for interactive gameplay.
+Designed and developed a two-player tank battle card game using Java and Object-Oriented Programming principles.  
+- Players (user vs. computer) take turns drawing random battle vehicle cards from a shuffled deck.  
+- Cards belong to one of three types: **Land**, **Sea**, or **Air**, each inheriting from a base `Card` class.  
+- Each card has attributes such as `name`, `damage`, and `level`.  
+- Battle logic is based on **type advantages** (e.g., Air > Land, Land > Sea, Sea > Air), as well as comparing damage and level values.  
+- Applied OOP concepts:  
+  - **Inheritance** for vehicle types  
+  - **Polymorphism** for card comparison logic  
+  - **Encapsulation** for managing card data  
+- Game flow includes card selection, comparison, and point calculation.  
+- Clear win/lose result shown after five rounds.  
+- Emphasized clean code structure, modular design, and game logic abstraction.
 
 ---
 
-### 🗃️ File System Simulation – Java CLI Project  
-**Programlama Laboratuvarı I – Project I (2024)**  
-Created a command-line file and folder management system modeled as a tree structure.  
-- Supported commands: `mkdir`, `touch`, `cd`, `ls`, `mv`, `rm`, and more.  
-- Built a `Node`-based recursive tree to simulate hierarchical directories.  
-- Enabled dynamic navigation and manipulation of the file system via terminal commands.  
-- Emphasized data structures, trees, and command parsing logic in Java.
+### ⚔️ Battle Simulation Game – C Programming & JSON Parsing  
+**Programlama Laboratuvarı I – Project I (2023)**  
+Created a turn-based fantasy battle simulator in **C**, featuring data-driven combat between two factions using **JSON files**, **custom logic**, and **graphical visualization**.  
+
+- Two factions: **Human Empire** vs. **Orc Legion**, each with units, heroes, monsters, and research upgrades.  
+- Parsed 5 JSON files (`unit_types`, `heroes`, `creatures`, `research`, and scenario) manually using string manipulation and `struct`s.  
+- Downloaded remote scenario files using **libcurl** and stored them locally.  
+- Combat mechanics involved:  
+  - Initial stats and effects from heroes, monsters, and research  
+  - Calculations for critical hits, fatigue (every 5 rounds), and net damage  
+  - Health updates and win condition check after each round  
+- Simulated turns with alternating attacks (Humans on odd rounds, Orcs on even).  
+- Wrote all battle steps and results to `savas_sim.txt`.  
+- Developed 2D visual representation using **raylib**:  
+  - 10x10 battlefield grid with PNG assets for units, monsters, and background  
+  - Health bars and survivor status shown at end of battle  
+- Key programming concepts used:  
+  - **Manual JSON parsing**, `struct` arrays  
+  - **File I/O**, dynamic memory, simulation loop  
+  - **Graphics programming** with sprite rendering  
+
+This project demonstrates strong skills in low-level programming, data parsing, game logic, and third-party C library integration.
 
 ---
+
 
 ## 📫 Contact
 - 📧 Email: **masumova.farahnozkhon@gmail.com**
