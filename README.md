@@ -68,8 +68,30 @@ Attended a **Web Developing Course** organized by Littbird Group.
 
 ---
 
-### 🧾 İzmit Route Planning System  
+### 🧪 Electronics & Embedded Systems – Arduino Projects  
 **Programlama Laboratuvarı II – Project II (2025)**  
+Designed and built an **IoT-based Smart Vehicle Safety and Control System** using **Arduino Mega**, simulated in **Proteus**.  
+- Inputs:  
+  - **Seatbelt button** – prevents engine start unless buckled  
+  - **Door switch** – detects if door is open or closed  
+  - **LDR (Light Sensor)** – detects ambient light for auto headlight control  
+  - **LM35 (Temperature Sensor)** – monitors in-vehicle temperature  
+  - **Potentiometer** – simulates fuel level readings  
+- Outputs:  
+  - **RGB LED** – indicates door status (e.g., pink when open)  
+  - **Buzzer** – alerts for unsafe conditions  
+  - **DC Motor** – represents engine, activated only under safe conditions  
+  - **16x2 LCD Display** – real-time status messages  
+  - **Standard LEDs** – visual indicators for fuel and lights  
+- Implemented logic flow with `if-else` control structures and flags for motor status  
+- Displayed dynamic data (temperature, fuel level, status) using the LCD  
+- All modules simulated in **Proteus**, ensuring correct logic, wiring, and timing  
+- Emphasized **real-world embedded systems principles**, including safety checks, modular code, and simulation accuracy
+
+---
+
+### 🧾 İzmit Route Planning System  
+**Programlama Laboratuvarı II – Project I (2025)**  
 Designed and implemented a **smart public transportation planner** using **JavaFX**, JSON-based real-world data, and custom-built graph algorithms.  
 - Allowed users to input **starting point, destination, passenger type, payment method, and transport preferences**.  
 - Computed optimal routes based on three filters:  
@@ -90,30 +112,8 @@ Designed and implemented a **smart public transportation planner** using **JavaF
 
 ---
 
-### 🧪 Electronics & Embedded Systems – Arduino Projects  
-**Programlama Laboratuvarı II – Project I (2025)**  
-Designed and built an **IoT-based Smart Vehicle Safety and Control System** using **Arduino Mega**, simulated in **Proteus**.  
-- Inputs:  
-  - **Seatbelt button** – prevents engine start unless buckled  
-  - **Door switch** – detects if door is open or closed  
-  - **LDR (Light Sensor)** – detects ambient light for auto headlight control  
-  - **LM35 (Temperature Sensor)** – monitors in-vehicle temperature  
-  - **Potentiometer** – simulates fuel level readings  
-- Outputs:  
-  - **RGB LED** – indicates door status (e.g., pink when open)  
-  - **Buzzer** – alerts for unsafe conditions  
-  - **DC Motor** – represents engine, activated only under safe conditions  
-  - **16x2 LCD Display** – real-time status messages  
-  - **Standard LEDs** – visual indicators for fuel and lights  
-- Implemented logic flow with `if-else` control structures and flags for motor status  
-- Displayed dynamic data (temperature, fuel level, status) using the LCD  
-- All modules simulated in **Proteus**, ensuring correct logic, wiring, and timing  
-- Emphasized **real-world embedded systems principles**, including safety checks, modular code, and simulation accuracy  
-
----
-
 ### 🧠 Academic Author Collaboration Graph – Python & PyQt5  
-**Programlama Laboratuvarı I – Project I (2024)**  
+**Programlama Laboratuvarı I – Project III (2024)**  
 Developed an interactive graph-based desktop application that visualizes academic co-authorship data using `.xlsx` datasets.  
 - Parsed Excel data to extract author names, ORCID IDs, paper titles, and co-author relationships using **Pandas**.  
 - Manually constructed a **weighted undirected graph**, where:  
