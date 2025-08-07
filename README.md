@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farahnozkhon Masumova!
 
-🎓 2nd-year Computer Engineering student at Kocaeli University  
+🎓 3rd-year Computer Engineering student at Kocaeli University  
 💻 Passionate about software development, AI, and education technology  
 🎓 Türkiye Scholarships (Türkiye Bursları) awardee since 2022  
 🌍 Originally from Khujand, Tajikistan  
@@ -65,6 +65,27 @@ Attended a **Web Developing Course** organized by Littbird Group.
 ---
 
 ## 🧠 Academic Projects & Activities
+
+---
+
+### 💻 Health Informatics – Desktop Applications  
+**Programlama Laboratuvarı II – Project III (2025)**  
+Designed and developed a **Diabetes Monitoring and Decision Support System** using **Python**, **PostgreSQL**, and **Tkinter GUI** for real-time health tracking and medical decision support.  
+- Inputs:  
+  - **Blood glucose entries** – patient logs time-based glucose measurements  
+  - **Symptom selection** – user reports signs like fatigue, dizziness, etc.  
+  - **Diet and exercise logs** – patients report adherence to daily plans  
+- Outputs:  
+  - **Automated insulin dosage suggestions** – based on glucose patterns  
+  - **Diet and activity recommendations** – rule-based, symptom-linked advice  
+  - **Alerts to doctors** – triggered on critical values or missing data  
+  - **Graphical charts** – visualize trends in glucose, diet, and exercise  
+- Developed separate **user panels** for patients and doctors using `tkinter`  
+- Stored all data in a **PostgreSQL** database, normalized to 3NF for integrity  
+- Secured user credentials using **AES encryption** for safe authentication  
+- Implemented core logic using `if-else` control structures and rule-based decision algorithms  
+- Visualized data using **matplotlib**, including time-series and pie charts  
+- Emphasized **secure health data processing**, **decision automation**, and **user-friendly interface design**
 
 ---
 
