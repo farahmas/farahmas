@@ -65,6 +65,22 @@ Attended a **Web Developing Course** organized by Littbird Group.
 ---
 
 ## 🧠 Academic Projects & Activities
+---
+
+### 🧮 Dinamik Sınav Takvimi — YAZLAB I 1st Project  
+**Course:** Software Laboratory I (Yazılım Laboratuvarı I)  
+**Team:** Farahnozkhon Masumova & Hayrunisa Korkulu  
+**Instructor:** Kocaeli University, Computer Engineering Department  
+
+A **Python + PySide6** desktop application that automatically generates **exam schedules** and **seating plans** while preventing student or room conflicts.
+
+- Built using **PySide6**, **SQLite**, and **Excel integration (pandas + openpyxl)**  
+- Implements an intelligent scheduling algorithm that detects overlaps and optimizes exam distribution  
+- Includes admin and coordinator roles with Excel import/export support  
+- Generates dynamic seating plans with PDF export  
+
+📂 **GitHub Repository:** [Dinamik Sınav Takvimi](https://github.com/farahmas/dinamik_sinav_takvimi)  
+📄 **Project Report (PDF):** [230201074.220201142.pdf](./230201074.220201142.pdf)
 
 ---
 
