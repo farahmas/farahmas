@@ -15,7 +15,7 @@
 **Company:** Nets, Dushanbe, Tajikistan  
 **Duration:** July 2024 – September 2024, August 2025 – September 2025, January 2026 – February 2026  
 
-Completed multiple software engineering internships at **Nets**, where I worked with **Python** and **Django** on backend development projects. My work included contributing to the official **nets.tj** website and internal systems for employee synchronization, access control, attendance management, Django Admin improvements, deployment support, and reporting automation. During the 2026 internship, I also contributed to an internal **SKUD–HR integration system** and a **YOLOv8 + ByteTrack** based analytics demo. :contentReference[oaicite:2]{index=2}
+Completed multiple software engineering internships at **Nets**, where I worked with **Python** and **Django** on backend development projects. My work included contributing to the official **nets.tj** website and internal systems for employee synchronization, access control, attendance management, Django Admin improvements, deployment support, and reporting automation. During the 2026 internship, I also contributed to an internal **SKUD–HR integration system** and a **YOLOv8 + ByteTrack** based analytics demo.
 
 ---
 
