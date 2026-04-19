@@ -87,6 +87,28 @@ A **web-based urban news monitoring system** developed to automatically collect,
 
 ---
 
+### 📦 Kargo İşletme Sistemi: Kocaeli İlçelerinden KOU Umuttepe’ye Yük ve Rota Planlama
+
+**Course:** Software Laboratory I — Project III (Yazılım Laboratuvarı I – Proje III)  
+**Team:** Farahnozkhon Dilovarovna Masumova & Hayrunisa Korkulu  
+**Instructor:** Kocaeli University, Computer Engineering Department  
+
+A **Django + React** web-based cargo planning system developed to manage cargo requests from Kocaeli district centers to **Kocaeli University Umuttepe Campus**. The system supports user and admin panels, vehicle assignment, cargo loading, and realistic route planning over a road network instead of simple straight-line distance estimation. :contentReference[oaicite:0]{index=0}
+
+- Built using **Django REST Framework**, **React**, **Vite**, **JWT**, and **Leaflet**
+- Uses **OpenStreetMap** road network data and **GraphML**-based shortest path routing for realistic route generation
+- Supports both **FIXED vehicle mode** and **UNLIMITED vehicle mode** with rental vehicle logic
+- Implements cost-focused planning objectives such as **MIN_COST**, **MIN_COST_MAX_COUNT**, and **MIN_COST_MAX_WEIGHT**
+- Includes **cargo request management**, **station management**, **planning runs**, **route summaries**, and **vehicle-based reporting**
+- Provides **role-based access control**, where users can only view routes related to their own cargo assignments
+- Visualizes stations, stops, and route segments on interactive **Leaflet maps**
+- Stores route segments as **GeoJSON polylines** and calculates shortest paths using **OpenStreetMap driving graph data** :contentReference[oaicite:1]{index=1}
+
+📂 **GitHub Repository:** [kargo-isletme-sistemi](https://github.com/farahmas/kargo-isletme-sistemi)  
+📄 **Project Report (PDF):** [220201142_230201074.pdf](./220201142_230201074.pdf)
+
+---
+
 ### 📚 Web Tabanlı Sosyal Kütüphane Platformu
 
 **Course:** Software Laboratory I — Project II (Yazılım Laboratuvarı I - Proje II)  
