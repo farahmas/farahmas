@@ -231,6 +231,9 @@ Developed an interactive graph-based desktop application that visualizes academi
   - Visual feedback on selected paths and results  
 - Applied core computer science concepts: **graph theory**, **recursion**, **tree structures**, and **data parsing**.
 
+📂 **GitHub Repository:** [academic-author-collab-graph](https://github.com/farahmas/academic-author-collab-graph)  
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/academic-author-collab-graph/blob/main/project_report.pdf)
+
 ---
 
 
