@@ -85,7 +85,27 @@ A **web-based urban news monitoring system** developed to automatically collect,
 - Supports dynamic filtering by **event type**, **district**, and **date range**
 - Displays categorized incidents on an interactive map with **markers, popups, and source links** :contentReference[oaicite:1]{index=1}
 
-📄 **Project Report:** `220201142_230201074 (3).pdf`
+---
+
+### 📚 Web Tabanlı Sosyal Kütüphane Platformu
+
+**Course:** Software Laboratory I — Project II (Yazılım Laboratuvarı I - Proje II)  
+**Team:** Farahnozkhon Dilovarovna Masumova  
+**Instructor:** Kocaeli University, Computer Engineering Department  
+
+A **Django + React** web platform where users can build personal **book and movie libraries**, rate and review content, create custom lists, and interact with others through a **social activity feed**. The system combines content management and social networking features in a single full-stack application. :contentReference[oaicite:0]{index=0}
+
+- Built using **Django 5**, **Django REST Framework**, **React**, **Vite**, and **PostgreSQL**
+- Uses **JWT-based authentication** for secure login and session management
+- Integrates with **TMDb**, **Google Books**, and **Open Library API** to fetch book and movie metadata dynamically
+- Supports **rating**, **reviewing**, **library status tracking**, and **custom list creation**
+- Includes **follow / unfollow** features and a paginated **social feed** based on user activities
+- Provides password reset flow, protected routes, profile management, and API documentation with **Swagger / OpenAPI**
+- Designed with a modular backend structure including apps such as **authentication**, **users**, **books**, **films**, **ratings**, **reviews**, **library**, **custom_lists**, **social**, and **activity** :contentReference[oaicite:1]{index=1}
+
+📂 **GitHub Repository:** [Yazlab1-2](https://github.com/farahmas/Yazlab1-2)  
+📄 **Project Report (PDF):** [220201142 (7) (1).pdf](./220201142%20(7)%20(1).pdf)
+
 ---
 
 ### 🧮 Dinamik Sınav Takvimi — YAZLAB I 1st Project  
