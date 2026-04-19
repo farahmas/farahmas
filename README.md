@@ -104,7 +104,7 @@ A **Django + React** web-based cargo planning system developed to manage cargo r
 - Visualizes stations, stops, and route segments on interactive **Leaflet maps**
 - Stores route segments as **GeoJSON polylines** and calculates shortest paths using **OpenStreetMap driving graph data** :contentReference[oaicite:1]{index=1}
 
-📂 **GitHub Repository:** [kargo-isletme-sistemi](https://github.com/farahmas/kargo-isletme-sistemi)  
+📂 **GitHub Repository:** [Kargo İşletme Sistemi: Kocaeli İlçelerinden KOU Umuttepe’ye Yük ve Rota](https://github.com/farahmas/kargo-isletme-sistemi)  
 📄 **Project Report (PDF):** [220201142_230201074.pdf](./220201142_230201074.pdf)
 
 ---
@@ -125,7 +125,7 @@ A **Django + React** web platform where users can build personal **book and movi
 - Provides password reset flow, protected routes, profile management, and API documentation with **Swagger / OpenAPI**
 - Designed with a modular backend structure including apps such as **authentication**, **users**, **books**, **films**, **ratings**, **reviews**, **library**, **custom_lists**, **social**, and **activity** :contentReference[oaicite:1]{index=1}
 
-📂 **GitHub Repository:** [web-social-library-platform](https://github.com/farahmas/web-social-library-platform)  
+📂 **GitHub Repository:** [Web Tabanlı Sosyal Kütüphane Platformu](https://github.com/farahmas/web-social-library-platform)  
 📄 **Project Report (PDF):** [220201142 (7).pdf](./220201142%20(7).pdf)
 
 ---
