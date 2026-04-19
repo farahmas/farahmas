@@ -65,6 +65,27 @@ Attended a **Web Developing Course** organized by Littbird Group.
 ---
 
 ## 🧠 Academic Projects & Activities
+
+### 🗺️ Web Scraping Tabanlı Kentsel Haber İzleme ve Harita Üzerinde Görselleştirme Sistemi
+
+**Course:** Software Laboratory II (Yazılım Laboratuvarı II)  
+**Team:** Farahnozkhon Dilovarovna Masumova & Hayrunisa Korkulu  
+**Institution:** Kocaeli University, Computer Engineering Department  
+
+A **web-based urban news monitoring system** developed to automatically collect, process, classify, and visualize local news data from Kocaeli on an interactive map. The system scrapes local news websites, detects incident categories such as traffic accidents, fires, power outages, theft, and cultural events, extracts location information from the news text, and displays the results on **Google Maps**. :contentReference[oaicite:0]{index=0}
+
+- Built with **Python**, **Flask**, **MongoDB**, **HTML/CSS/JavaScript**, and **Google Maps API**
+- Collects news automatically from multiple **local Kocaeli news sources** using **web scraping**
+- Applies **text cleaning and preprocessing** to make raw news content analyzable
+- Uses **rule-based classification** with **embedding-based semantic fallback** for incident type detection
+- Extracts district and address-level location information from text
+- Converts locations into map coordinates via **geocoding**
+- Avoids repeated geocoding requests using a **geocache** structure
+- Detects and merges duplicate news from different sources using **embedding-based similarity analysis**
+- Supports dynamic filtering by **event type**, **district**, and **date range**
+- Displays categorized incidents on an interactive map with **markers, popups, and source links** :contentReference[oaicite:1]{index=1}
+
+📄 **Project Report:** `220201142_230201074 (3).pdf`
 ---
 
 ### 🧮 Dinamik Sınav Takvimi — YAZLAB I 1st Project  
