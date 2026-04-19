@@ -274,6 +274,9 @@ Created a turn-based fantasy battle simulator in **C**, featuring data-driven co
 
 This project demonstrates strong skills in low-level programming, data parsing, game logic, and third-party C library integration.
 
+📂 **GitHub Repository:** [battle-simulation-game](https://github.com/farahmas/battle-simulation-game)  
+📄 **Project Report (PDF):** [project_report.pdf](./report/project_report.pdf)
+
 ---
 
 
