@@ -85,6 +85,9 @@ A **web-based urban news monitoring system** developed to automatically collect,
 - Supports dynamic filtering by **event type**, **district**, and **date range**
 - Displays categorized incidents on an interactive map with **markers, popups, and source links** :contentReference[oaicite:1]{index=1}
 
+📂 **GitHub Repository:** [urban-news-monitoring-system](https://github.com/farahmas/urban-news-monitoring-system)  
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/urban-news-monitoring-system/blob/main/project_report.pdf)
+
 ---
 
 ### 📦 Kargo İşletme Sistemi: Kocaeli İlçelerinden KOU Umuttepe’ye Yük ve Rota Planlama
