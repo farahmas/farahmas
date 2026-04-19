@@ -9,11 +9,42 @@
 
 ## 🌟 Featured Projects
 
-### 🌐 Backend Development – Nets.tj  
-**Software Engineering Intern – July 2024 to September 2024**  
-Worked as a software engineering intern at **Nets**, a tech company in Dushanbe, Tajikistan.  
-- Learned how to use the **Django** web framework.  
-- Contributed to backend development of the official [nets.tj](https://nets.tj) website.  
+### 🌐 Backend Development – Nets.tj
+
+**Position:** Software Engineering Intern  
+**Company:** Nets, Dushanbe, Tajikistan  
+**Duration:** July 2024 – September 2024, August 2025 – September 2025, January 2026 – February 2026  
+
+Worked as a **Software Engineering Intern** at **Nets**, contributing to backend development with **Python** and **Django** across multiple internship periods. During my internships, I supported backend development of the official **nets.tj** website and contributed to internal company systems focused on employee management, access control integration, attendance tracking, and administrative workflow automation. During the 2026 internship, I worked extensively on an internal **SKUD–HR integration system** for employee synchronization, event tracking, FaceID/photo workflows, reporting, and admin improvements. :contentReference[oaicite:0]{index=0}
+
+- Developed backend features using **Python** and **Django**
+- Contributed to backend development of the official **nets.tj** website
+- Worked on internal systems for **employee management**, **access control**, and **attendance reporting**
+- Designed and improved models such as **Employee**, **AccessEvent**, and attendance-related structures
+- Built **Excel import workflows** for employee data with validation, logging, and update logic
+- Implemented synchronization flows so successfully imported employee records could be sent to the **SKUD** system
+- Improved **Django Admin** with better filtering, searching, bulk actions, sync status badges, and **Django Unfold** integration
+- Added **photo upload and webcam capture** support, including image resizing, cropping, and optimized JPEG processing for FaceID workflows
+- Investigated and resolved issues related to **FaceID**, file naming, SKUD communication, and employee deletion logic
+- Added attendance reporting features such as **first entry**, **last exit**, and **working duration**
+- Supported deployment and testing using **SSH**, migrations, server checks, and admin panel verification
+- Participated in professional events including a **Cybersecurity Forum** and **Digital Forum**
+- Also contributed to a **YOLOv8 + ByteTrack** based retail analytics demo with zone tracking and heatmap visualization :contentReference[oaicite:1]{index=1}
+
+---
+
+### 🌍 Community Coordination – LeadHub
+
+**Role:** Community Coordinator  
+**Organization:** LeadHub, Dushanbe, Tajikistan  
+**Duration:** September 2025 – December 2025  
+
+Contributed to the coordination and growth of a community initiative focused on empowering girls in Tajikistan through connection, support, and shared opportunities.
+
+- Helped coordinate a supportive community that connects and inspires girls in Tajikistan
+- Contributed to initiatives aimed at empowerment, engagement, and personal growth
+- Supported activities that encouraged collaboration, confidence, and meaningful community participation
+- Helped create an inclusive and motivating environment for learning, connection, and inspiration
 
 ---
 
