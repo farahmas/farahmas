@@ -104,7 +104,7 @@ A **Django + React** web platform where users can build personal **book and movi
 - Designed with a modular backend structure including apps such as **authentication**, **users**, **books**, **films**, **ratings**, **reviews**, **library**, **custom_lists**, **social**, and **activity** :contentReference[oaicite:1]{index=1}
 
 📂 **GitHub Repository:** [Yazlab1-2](https://github.com/farahmas/Yazlab1-2)  
-📄 **Project Report (PDF):** [220201142 (7) (1).pdf](./220201142%20(7)%20(1).pdf)
+📄 **Project Report (PDF):** [220201142 (7).pdf](./220201142%20(7).pdf)
 
 ---
 
