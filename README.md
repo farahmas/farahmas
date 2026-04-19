@@ -15,21 +15,7 @@
 **Company:** Nets, Dushanbe, Tajikistan  
 **Duration:** July 2024 – September 2024, August 2025 – September 2025, January 2026 – February 2026  
 
-Worked as a **Software Engineering Intern** at **Nets**, contributing to backend development with **Python** and **Django** across multiple internship periods. During my internships, I supported backend development of the official **nets.tj** website and contributed to internal company systems focused on employee management, access control integration, attendance tracking, and administrative workflow automation. During the 2026 internship, I worked extensively on an internal **SKUD–HR integration system** for employee synchronization, event tracking, FaceID/photo workflows, reporting, and admin improvements. :contentReference[oaicite:0]{index=0}
-
-- Developed backend features using **Python** and **Django**
-- Contributed to backend development of the official **nets.tj** website
-- Worked on internal systems for **employee management**, **access control**, and **attendance reporting**
-- Designed and improved models such as **Employee**, **AccessEvent**, and attendance-related structures
-- Built **Excel import workflows** for employee data with validation, logging, and update logic
-- Implemented synchronization flows so successfully imported employee records could be sent to the **SKUD** system
-- Improved **Django Admin** with better filtering, searching, bulk actions, sync status badges, and **Django Unfold** integration
-- Added **photo upload and webcam capture** support, including image resizing, cropping, and optimized JPEG processing for FaceID workflows
-- Investigated and resolved issues related to **FaceID**, file naming, SKUD communication, and employee deletion logic
-- Added attendance reporting features such as **first entry**, **last exit**, and **working duration**
-- Supported deployment and testing using **SSH**, migrations, server checks, and admin panel verification
-- Participated in professional events including a **Cybersecurity Forum** and **Digital Forum**
-- Also contributed to a **YOLOv8 + ByteTrack** based retail analytics demo with zone tracking and heatmap visualization :contentReference[oaicite:1]{index=1}
+Completed multiple software engineering internships at **Nets**, where I worked with **Python** and **Django** on backend development projects. My work included contributing to the official **nets.tj** website and internal systems for employee synchronization, access control, attendance management, Django Admin improvements, deployment support, and reporting automation. During the 2026 internship, I also contributed to an internal **SKUD–HR integration system** and a **YOLOv8 + ByteTrack** based analytics demo. :contentReference[oaicite:2]{index=2}
 
 ---
 
