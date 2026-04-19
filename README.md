@@ -105,7 +105,7 @@ A **Django + React** web-based cargo planning system developed to manage cargo r
 - Stores route segments as **GeoJSON polylines** and calculates shortest paths using **OpenStreetMap driving graph data** :contentReference[oaicite:1]{index=1}
 
 📂 **GitHub Repository:** [Kargo İşletme Sistemi: Kocaeli İlçelerinden KOU Umuttepe’ye Yük ve Rota](https://github.com/farahmas/kargo-isletme-sistemi)  
-📄 **Project Report (PDF):** [project_report.pdf](./220201142_230201074.pdf)
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/kargo-isletme-sistemi/blob/main/220201142_230201074.pdf)
 
 ---
 
@@ -126,7 +126,7 @@ A **Django + React** web platform where users can build personal **book and movi
 - Designed with a modular backend structure including apps such as **authentication**, **users**, **books**, **films**, **ratings**, **reviews**, **library**, **custom_lists**, **social**, and **activity** :contentReference[oaicite:1]{index=1}
 
 📂 **GitHub Repository:** [Web Tabanlı Sosyal Kütüphane Platformu](https://github.com/farahmas/web-social-library-platform)  
-📄 **Project Report (PDF):** [project_report.pdf](./220201142%20(7).pdf)
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/web-social-library-platform/blob/main/220201142%20(7).pdf)
 
 ---
 
@@ -143,7 +143,7 @@ A **Python + PySide6** desktop application that automatically generates **exam s
 - Generates dynamic seating plans with PDF export  
 
 📂 **GitHub Repository:** [Dinamik Sınav Takvimi](https://github.com/farahmas/dinamik_sinav_takvimi)  
-📄 **Project Report (PDF):** [project_report.pdf](./230201074.220201142.pdf)
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/dinamik_sinav_takvimi/blob/main/230201074.220201142.pdf)
 
 ---
 
@@ -165,6 +165,9 @@ Designed and developed a **Diabetes Monitoring and Decision Support System** usi
 - Implemented core logic using `if-else` control structures and rule-based decision algorithms  
 - Visualized data using **matplotlib**, including time-series and pie charts  
 - Emphasized **secure health data processing**, **decision automation**, and **user-friendly interface design**
+
+📂 **GitHub Repository:** [diabetes-monitoring-decision-support](https://github.com/farahmas/diabetes-monitoring-decision-support)  
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/diabetes-monitoring-decision-support/blob/main/project_report.pdf)
 
 ---
 
@@ -188,6 +191,9 @@ Designed and built an **IoT-based Smart Vehicle Safety and Control System** usin
 - All modules simulated in **Proteus**, ensuring correct logic, wiring, and timing  
 - Emphasized **real-world embedded systems principles**, including safety checks, modular code, and simulation accuracy
 
+📂 **GitHub Repository:** [smart-vehicle-safety-control-system](https://github.com/farahmas/smart-vehicle-safety-control-system)  
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/smart-vehicle-safety-control-system/blob/main/project_report.pdf)
+
 ---
 
 ### 🧾 İzmit Route Planning System  
@@ -209,6 +215,9 @@ Designed and implemented a **smart public transportation planner** using **JavaF
 - Supported user discounts based on passenger type (student, teacher, senior)  
 - Output included: route steps, vehicle icons, cost/time breakdown, and special conditions  
 - Fully modular and extensible architecture suitable for future city expansions  
+
+📂 **GitHub Repository:** [izmit-route-planning-system](https://github.com/farahmas/izmit-route-planning-system)  
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/izmit-route-planning-system/blob/main/project_report.pdf)
 
 ---
 
