@@ -249,6 +249,9 @@ Designed and developed a two-player tank battle card game using Java and Object-
 - Clear win/lose result shown after five rounds.  
 - Emphasized clean code structure, modular design, and game logic abstraction.
 
+📂 **GitHub Repository:** [tank-battle-card](https://github.com/farahmas/tank-battle-card)  
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/farahmas/tank-battle-card/blob/main/project_report.pdf)
+
 ---
 
 ### ⚔️ Battle Simulation Game – C Programming & JSON Parsing  
