@@ -83,6 +83,35 @@ Attended a **Web Developing Course** organized by Littbird Group.
 
 ## 🧠 Academic Projects & Activities
 
+### 🍬 Word Crush: Turkish Word Puzzle and Joker-Based Mobile Game
+
+**Course:** Software Laboratory II  
+**Team:** Farahnozkhon Dilovarovna Masumova & Hayrunisa Korkulu  
+**Institution:** Kocaeli University, Department of Computer Engineering  
+
+A **Flutter-based Turkish word puzzle mobile game** developed to provide an interactive, colorful, and strategic word-finding experience. The game allows players to create Turkish words by dragging across neighboring letter tiles on a grid. Valid words are checked using a local Turkish dictionary, scored according to letter values, and enhanced with combo bonuses, special power tiles, and joker mechanics.
+
+- Built with **Flutter**, **Dart**, **SharedPreferences**, and **Hive**
+- Supports multiple difficulty levels with different grid sizes: **Easy**, **Medium**, and **Hard**
+- Allows players to select the number of moves before starting the game
+- Generates Turkish letters using **frequency-based weighted random generation**
+- Validates selected words using a local **Turkish dictionary file**
+- Uses **DFS-based possible word detection** to keep the board playable
+- Calculates scores using predefined **letter point values**
+- Detects smaller valid words inside longer words for **combo bonus scoring**
+- Includes special power tiles such as **row clear**, **column clear**, **bomb**, and **mega**
+- Provides multiple joker types including **Fish**, **Wheel**, **Lollipop**, **Swap**, **Shuffle**, and **Party**
+- Includes animated joker effects, tile selection effects, explosion effects, and glowing power animations
+- Stores player data such as **username**, **gold**, and **owned jokers** using SharedPreferences
+- Stores completed game records and score history using **Hive**
+- Includes a market system where players can buy jokers using in-game gold
+- Displays score history, high score, average score, longest word, total games, and total play statistics
+
+📂 **GitHub Repository:** [Word-Crush](https://github.com/HayrunisaKorkulu/Word-Crush)  
+📄 **Project Report (PDF):** [project_report.pdf](https://github.com/HayrunisaKorkulu/Word-Crush/blob/main/project_report.pdf)
+
+---
+
 ### 🗺️ Web Scraping Tabanlı Kentsel Haber İzleme ve Harita Üzerinde Görselleştirme Sistemi
 
 **Course:** Software Laboratory II (Yazılım Laboratuvarı II)  
