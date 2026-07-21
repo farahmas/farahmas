@@ -83,6 +83,34 @@ Attended a **Web Developing Course** organized by Littbird Group.
 
 ## 🧠 Academic Projects & Activities
 
+### 🚗 Car Body Type Classification: Deep Learning Vehicle Image Classification
+
+**Course:** Computer Vision  
+**Team:** Farahnozkhon Dilovarovna Masumova  
+**Institution:** Kocaeli University, Department of Computer Engineering  
+
+A **PyTorch-based vehicle image classification project** developed to automatically classify a car image into one of eight vehicle body types. The project provides a complete deep learning pipeline, including dataset preparation, model training, performance evaluation, command-line prediction, and a Flask-based web application for interactive image classification.
+
+- Built with **Python**, **PyTorch**, **Torchvision**, and **Flask**
+- Classifies vehicle images into **SUV**, **Van**, **Station Wagon**, **Micro**, **Open Wheel**, **Sedan**, **Hatchback**, and **Pick Up**
+- Automatically prepares datasets by splitting raw images into **training** and **validation** sets
+- Uses an **80/20 training-validation split** for model development
+- Applies image preprocessing and data augmentation during model training
+- Generates **training and validation loss** and **accuracy** graphs
+- Produces a **normalized confusion matrix** and detailed **classification report**
+- Stores training metrics in **JSON** format
+- Provides a **Flask-based web interface** for uploading and classifying vehicle images
+- Displays the predicted vehicle body type together with its **confidence score**
+- Shows the probability distribution across all eight body-type classes
+- Supports prediction for both **single images** and **folders of test images**
+- Exports batch prediction results to a **Preds.txt** file
+- Includes an **IEEE-format project report** with LaTeX source files and bibliography
+
+📂 **GitHub Repository:** https://github.com/farahmas/car-body-classification  
+📄 **Project Report (PDF):** https://github.com/farahmas/car-body-classification/tree/main/report
+
+---
+
 ### 🍬 Word Crush: Turkish Word Puzzle and Joker-Based Mobile Game
 
 **Course:** Software Laboratory II  
