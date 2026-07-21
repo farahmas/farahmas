@@ -89,7 +89,7 @@ Attended a **Web Developing Course** organized by Littbird Group.
 **Team:** Farahnozkhon Dilovarovna Masumova  
 **Institution:** Kocaeli University, Department of Computer Engineering  
 
-A **PyTorch-based vehicle image classification project** developed to automatically classify a car image into one of eight vehicle body types. The project provides a complete deep learning pipeline, including dataset preparation, model training, performance evaluation, command-line prediction, and a Flask-based web application for interactive image classification.
+A **PyTorch-based vehicle image classification project** developed to automatically identify a car's body type from an input image. The system classifies vehicle images into one of **eight vehicle body-type categories** using a deep learning model. It includes dataset preparation, model training, performance evaluation, a command-line prediction tool, and a Flask-based web application for interactive image classification.
 
 - Built with **Python**, **PyTorch**, **Torchvision**, and **Flask**
 - Classifies vehicle images into **SUV**, **Van**, **Station Wagon**, **Micro**, **Open Wheel**, **Sedan**, **Hatchback**, and **Pick Up**
@@ -104,10 +104,10 @@ A **PyTorch-based vehicle image classification project** developed to automatica
 - Shows the probability distribution across all eight body-type classes
 - Supports prediction for both **single images** and **folders of test images**
 - Exports batch prediction results to a **Preds.txt** file
-- Includes an **IEEE-format project report** with LaTeX source files and bibliography
+- Includes an **IEEE-format project report** documenting the methodology, experiments, and evaluation
 
-📂 **GitHub Repository:** https://github.com/farahmas/car-body-classification  
-📄 **Project Report (PDF):** https://github.com/farahmas/car-body-classification/tree/main/report
+📂 **GitHub Repository:** [car-body-classification](https://github.com/farahmas/car-body-classification)  
+📄 **Project Report (PDF):** [Report.pdf](https://github.com/farahmas/car-body-classification/blob/main/Report.pdf)
 
 ---
 
