@@ -9,7 +9,7 @@
 
 ## 🌟 Featured Projects
 
-### 🌐 Backend Development – Nets.tj
+### 🌐 Software Engineering – Nets.tj
 
 **Position:** Software Engineering Intern  
 **Company:** Nets, Dushanbe, Tajikistan  
